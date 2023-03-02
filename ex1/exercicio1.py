@@ -1,6 +1,6 @@
-# Henrique Vergili
-# Guilherme Guidetti
-# Leonardo Hana
+# Henrique Vergili - 21005466
+# Guilherme Guidetti - 21001718
+# Leonardo Hana - 20124988
 
 from copy import deepcopy
 import numpy as np
